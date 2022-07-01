@@ -8,6 +8,9 @@ password: boafresh@123
 
 http://tracking-cms.chotobato.com/
 
+username: admin@local.com
+password: h8Hx9qvPKoHMLQgj
+
 ## Available Scripts
 
 In the project directory, you can run:

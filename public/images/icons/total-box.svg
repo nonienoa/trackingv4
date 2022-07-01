@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42.619" height="45.678" viewBox="0 0 42.619 45.678">
+  <g id="box" transform="translate(0.25 0.289)">
+    <g id="Group_732" data-name="Group 732" transform="translate(0)">
+      <g id="Group_731" data-name="Group 731">
+        <path id="Path_431" data-name="Path 431" d="M56.166,27.711V11.27L36.646,0,17.126,11.27v22.54l19.52,11.27,5.193-3a10.147,10.147,0,1,0,14.327-14.37ZM36.646,3.058l15.547,8.976-6.449,3.724L30.2,6.782Zm-1.324,38.2L19.774,32.28V14.328L35.322,23.3ZM21.1,12.034l6.449-3.724L43.1,17.287l-6.45,3.724ZM37.97,41.257V23.3l15.547-8.976V25.851a10.149,10.149,0,0,0-13.279,14.1Zm11.123,1.234a7.5,7.5,0,1,1,7.5-7.5A7.512,7.512,0,0,1,49.093,42.491Z" transform="translate(-17.126)" fill="#3e8de8" stroke="#fff" stroke-width="0.5"/>
+      </g>
+    </g>
+    <g id="Group_978" data-name="Group 978" transform="translate(0.405 0.405)">
+      <path id="Path_479" data-name="Path 479" d="M31.775,31.771V38.04" transform="translate(-0.405)" fill="none" stroke="#3e8de8" stroke-width="2"/>
+      <path id="Path_480" data-name="Path 480" d="M0,0V6.269" transform="translate(34.505 34.905) rotate(90)" fill="none" stroke="#3e8de8" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

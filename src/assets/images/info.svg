@@ -1,0 +1,29 @@
+<svg id="Group_31" data-name="Group 31" xmlns="http://www.w3.org/2000/svg" width="9.956" height="17.57" viewBox="0 0 9.956 17.57">
+  <g id="Group_30" data-name="Group 30">
+    <g id="Group_21" data-name="Group 21" transform="translate(3.221 0.878)">
+      <g id="Group_20" data-name="Group 20">
+        <path id="Path_22" data-name="Path 22" d="M1239.864,228.883h-2.928a.293.293,0,1,0,0,.586h2.928a.293.293,0,0,0,0-.586Z" transform="translate(-1236.643 -228.883)" fill="#499e43"/>
+      </g>
+    </g>
+    <g id="Group_23" data-name="Group 23" transform="translate(7.906 0.878)">
+      <g id="Group_22" data-name="Group 22">
+        <path id="Path_23" data-name="Path 23" d="M1241.594,228.883h-.293a.293.293,0,0,0,0,.586h.293a.293.293,0,1,0,0-.586Z" transform="translate(-1241.008 -228.883)" fill="#499e43"/>
+      </g>
+    </g>
+    <g id="Group_25" data-name="Group 25" transform="translate(3.806 14.935)">
+      <g id="Group_24" data-name="Group 24">
+        <path id="Path_24" data-name="Path 24" d="M1238.724,241.98H1238a.808.808,0,0,0-.808.807v.142a.809.809,0,0,0,.808.808h.727a.809.809,0,0,0,.808-.808v-.142A.808.808,0,0,0,1238.724,241.98Zm.221.949a.222.222,0,0,1-.221.222H1238a.223.223,0,0,1-.222-.222v-.142a.223.223,0,0,1,.222-.222h.727a.222.222,0,0,1,.222.222Z" transform="translate(-1237.188 -241.98)" fill="#499e43"/>
+      </g>
+    </g>
+    <g id="Group_27" data-name="Group 27">
+      <g id="Group_26" data-name="Group 26">
+        <path id="Path_25" data-name="Path 25" d="M1242.54,228.065h-7.84a1.059,1.059,0,0,0-1.058,1.058v15.454a1.059,1.059,0,0,0,1.058,1.058h7.84a1.06,1.06,0,0,0,1.058-1.058V229.123A1.059,1.059,0,0,0,1242.54,228.065Zm.472,16.512a.472.472,0,0,1-.472.472h-7.84a.473.473,0,0,1-.473-.472V229.123a.473.473,0,0,1,.473-.472h7.84a.472.472,0,0,1,.472.472v15.454Z" transform="translate(-1233.642 -228.065)" fill="#499e43"/>
+      </g>
+    </g>
+    <g id="Group_29" data-name="Group 29" transform="translate(0 1.757)">
+      <g id="Group_28" data-name="Group 28">
+        <path id="Path_26" data-name="Path 26" d="M1243.305,229.7h-9.371a.293.293,0,0,0-.292.293v12.3a.292.292,0,0,0,.292.293h9.371a.293.293,0,0,0,.293-.293V230A.293.293,0,0,0,1243.305,229.7Zm-.293,12.3h-8.785V230.288h8.785Z" transform="translate(-1233.642 -229.702)" fill="#499e43"/>
+      </g>
+    </g>
+  </g>
+</svg>
